@@ -1,2 +1,2 @@
-# my-1st-repo
+# datasciencecoursera repo
 creating my first repo for learning purposes
